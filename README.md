@@ -12,7 +12,7 @@ I build projects in *Android (Kotlin), **Web Development*, and enjoy experimenti
 
 ## 🛠️ Technologies
 - Kotlin, Spring Boot
-- HTML, CSS, JavaScript
+- HTML, CSS, JavaScript, Php
 - SQL, MySQL
 - Git & GitHub
 - Android Studio, Postman, VS Code, Intellij Idea
