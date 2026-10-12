@@ -1,27 +1,72 @@
-# Hi, I'm Soufiane 👋  
-Web & Mobile Developer | OFPPT Student | Passionate About Tech
+# Hi, I'm Soufiane Guizaoui
 
-I'm a second-year Web Development student at OFPPT (Morocco), specialized in Mobile App Development.  
-I build projects in *Android (Kotlin), **Web Development*, and enjoy experimenting with APIs and AI tools.
+### Junior Web & Mobile Developer | Morocco
 
-## What I Do
-- Mobile app development (Android / Kotlin)
-- Web development (Front-end & Back-end)
-- API integration & backend logic
-- Small practice projects to learn new technologies
+I'm a software developer recently graduated in **Développement Digital — Applications Mobiles** from OFPPT ISTA NTIC Safi, Morocco.
 
-## 🛠️ Technologies
-- Kotlin, Spring Boot
-- HTML, CSS, JavaScript, Php
-- SQL, MySQL
-- Git & GitHub
-- Android Studio, Postman, VS Code, Intellij Idea
+I build web and mobile applications focused on practical, real-world problems. My experience includes Android development, Flutter applications, backend development with Spring Boot, and deployed web platforms.
 
-## 📂 Portfolio Projects
-- Library Order Management App (Android)
-- Festival Cinema Website (full-stack)
-- Spring Boot Movie API
+## Technical Skills
 
-## 📫 Contact
-- LinkedIn: https://www.linkedin.com/in/soufiane-guizaoui-723266393/
-- Email: soufianeguizaoui2@gmail.com
+**Mobile Development**
+- Kotlin
+- Android
+- Flutter and Dart
+- XML
+
+**Web Development & Backend**
+- JavaScript
+- HTML and CSS
+- PHP
+- Spring Boot
+- REST APIs
+
+**Databases & Cloud**
+- MySQL
+- Firebase Authentication
+- Cloud Firestore
+
+**Tools**
+- Git and GitHub
+- Android Studio
+- Postman
+- Linux
+
+## Featured Projects
+
+### Library OMS — Library Management & POS
+
+A Flutter and Firebase application designed to manage library operations, including customer orders, inventory, missing items, sales, customer records, and reports.
+
+The solution was developed and commercialized for **four libraries in Safi, Morocco**.
+
+### OCP HelpDesk — Android Application
+
+An Android application developed during my internship at OCP to manage IT support tickets.
+
+Features include ticket creation and tracking, technician assignment, communication, dashboards, and a knowledge base.
+
+**Technologies:** Kotlin, XML, Firebase Authentication, Cloud Firestore, MVVM.
+
+### Sky Pro Nutrition — E-commerce Web Platform
+
+A web platform developed and deployed for a paying client.
+
+Features include dynamic product listings, product variants, promotions, bundles, WhatsApp ordering, and an authenticated administration dashboard.
+
+**Technologies:** HTML, CSS, JavaScript, Firebase, Cloudinary.
+
+[Visit the website](https://skynutritionpro.com/)
+
+### Elhanout — Commercial Management Backend
+
+A Kotlin and Spring Boot backend project focused on commercial management, including products, sales, debts, authentication, and user roles.
+
+## About Me
+
+I'm looking for opportunities as a **Junior Web Developer, Mobile Developer, or Software Developer** where I can contribute to real projects, strengthen my technical skills, and grow professionally.
+
+## Contact
+
+- **LinkedIn:** [Soufiane Guizaoui](https://www.linkedin.com/in/soufiane-guizaoui-723266393/)
+- **GitHub:** [@SoufianeGuizaoui](https://github.com/SoufianeGuizaoui)
